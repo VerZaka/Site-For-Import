@@ -2,6 +2,7 @@ tmp/
 *_old
 *.DS_Store
 *html
+*.png_backup
 
 
 
